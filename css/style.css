@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-self: center;
 }
 
-#main-nav .social i {
+#main-nav .social  {
   color: #777;
   margin-right: .5rem;
 }
