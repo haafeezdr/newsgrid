@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-light { background: var(--light-color) }
 .btn-primary { background: var(--secondary-color) }
-.btn-secondary { background: var(--primary-color) }
+.btn-secondary { background: var(--primary-color)}
 
 .btn-block {
   display: block;
@@ -214,7 +214,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 2rem;
   position: relative;
 }
-
+/* repire */
 #showcase:before {
   content: '';
   background: url('../img/articles/sports\ 1.png') no-repeat center/cover;
